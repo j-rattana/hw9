@@ -42,3 +42,10 @@ p {
   width: 200px;
   margin: 10px auto;
 }
+
+.six {
+  min-width: 200px;
+  max-width: 300px;
+  min-height: 25px;
+  max-height: 50px;
+}
