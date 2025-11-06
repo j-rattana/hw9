@@ -49,3 +49,9 @@ p {
   min-height: 25px;
   max-height: 50px;
 }
+
+.seven {
+  width: 50px;
+  height: 25px;
+  overflow: scroll;
+}
