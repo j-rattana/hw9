@@ -22,3 +22,8 @@ p {
 .two {
   padding: 10px 15px;
 }
+
+.three {
+  /*border-radius: 50%; highly rounded*/
+  border-radius: 10px; /*more subtle round*/
+}
