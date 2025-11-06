@@ -25,5 +25,13 @@ p {
 
 .three {
   /*border-radius: 50%; highly rounded*/
+  height: 25px;
+  width: 200px;
   border-radius: 10px; /*more subtle round*/
+}
+
+.four {
+  height: 25px;
+  width: 200px;
+  margin: 20px 10px;
 }
